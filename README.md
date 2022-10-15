@@ -32,5 +32,5 @@
 <br/>  
 
   
-![Snake animation](https://github.com/jois-u/jois-u/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jois-u/main/blob/output/github-contribution-grid-snake.svg)
 
