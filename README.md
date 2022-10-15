@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Joyce Muniz
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Software Development
-- 📫 How to reach me https://www.linkedin.com/in/ketlen-muniz-b0497918a/
-
-<!---
-jois-u/jois-u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<img scr="https://user-images.githubusercontent.com/104580632/196006572-1830d8f6-e561-4f21-a3f6-d68f4c9c1893.png" />
+</div>
