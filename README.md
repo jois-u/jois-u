@@ -29,6 +29,6 @@
 
 <br/>  
 
-<div>
+<div align="center">
 <img scr=https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg>
 </div>                                                                                                                                
