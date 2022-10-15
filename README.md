@@ -9,9 +9,7 @@
 <a href="https://dev.to/joisu" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/jois-u" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+
  
 <div align="right">                                                                                                                        
  <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,5 +30,5 @@
 <br/>  
 
   
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jois-u/jois-u/blob/output/github-contribution-grid-snake.svg)
 
